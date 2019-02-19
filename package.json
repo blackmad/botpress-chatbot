@@ -9,7 +9,7 @@
   "dependencies": {
     "@botpress/audience": "10.51.10",
     "@botpress/builtins": "10.51.10",
-    "@botpress/channel-twilio": "file:david-channel-twilio",
+    "@botpress/channel-twilio": "^10.51.10",
     "@botpress/channel-web": "10.51.10",
     "@botpress/hitl": "10.51.10",
     "@botpress/nlu": "10.51.10",
