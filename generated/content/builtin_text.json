@@ -1,66 +1,55 @@
 [
   {
-    "id": "builtin_text-pSsHWg",
+    "id": "builtin_text-iwWaYn",
     "formData": {
-      "text": "👋, {{state.$r}}!",
-      "variations": ["Hello, {{state.$r}}!", "Welcome to Botpress, {{state.$r}}!"],
+      "text": "Hello and welcome to Duck Debugging. What seems to be the problem?",
+      "variations": [
+        "Duck debuggers here to assist! How can we help?",
+        "I'm a duck. You can talk to me. What's wrong?"
+      ],
       "typing": true
     },
     "createdBy": "admin",
-    "createdOn": "2018-05-14T00:57:36.026Z"
+    "createdOn": "2019-02-19T20:36:16.421Z"
   },
   {
-    "id": "builtin_text-AY5SSW",
+    "id": "builtin_text-3bxu4M",
     "formData": {
-      "text": "This is the first time we speak 🤖",
+      "text": "That sounds tough. You can figure it out.",
+      "variations": [
+        "I'm sure you'll figure it out. Maybe I can help. ",
+        "Ugh, I hate that. I have faith in you."
+      ],
       "typing": true
     },
     "createdBy": "admin",
-    "createdOn": "2018-05-14T00:59:51.118Z"
+    "createdOn": "2019-02-19T20:39:26.672Z"
   },
   {
-    "id": "builtin_text-bFsOmf",
+    "id": "builtin_text-UMWnYj",
     "formData": {
-      "text": "We already spoke {{state.$r}} times!",
+      "text": "What have you tried so far?",
       "typing": true
     },
     "createdBy": "admin",
-    "createdOn": "2018-05-14T01:00:37.593Z"
+    "createdOn": "2019-02-19T20:42:16.305Z"
   },
   {
-    "id": "builtin_text-TtzrCV",
+    "id": "builtin_text-DtqwJ9",
     "formData": {
-      "text": "Alright, I have forgotten your name.",
+      "text": "Sorry that hasn't helped. Is there something you're sure definitely couldn't be the cause?",
       "typing": true
     },
     "createdBy": "admin",
-    "createdOn": "2018-05-14T01:06:41.963Z"
+    "createdOn": "2019-02-19T20:51:31.794Z"
   },
   {
-    "id": "builtin_text-z0J9qh",
+    "id": "builtin_text-d19FkW",
     "formData": {
-      "text": "May I know your name please?",
+      "text": "And you're totally sure it's not that?",
       "typing": true
     },
     "createdBy": "admin",
-    "createdOn": "2018-05-14T01:08:41.241Z"
-  },
-  {
-    "id": "builtin_text-X069Le",
-    "formData": {
-      "text": "Try saying something like \"forget my name\"!",
-      "typing": true
-    },
-    "createdBy": "admin",
-    "createdOn": "2018-05-14T01:16:53.227Z"
-  },
-  {
-    "id": "builtin_text-kKQ8C3",
-    "formData": {
-      "text": "(To see how this works, double-click anywhere on the flow and go to the \"Transitions\" panel)",
-      "typing": true
-    },
-    "createdBy": "admin",
-    "createdOn": "2018-05-14T01:17:55.317Z"
+    "createdOn": "2019-02-19T20:56:53.709Z"
   }
 ]

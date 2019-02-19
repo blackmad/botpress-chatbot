@@ -8,5 +8,15 @@
     },
     "createdBy": "admin",
     "createdOn": "2019-02-19T15:33:15.924Z"
+  },
+  {
+    "id": "builtin_image-1DtmWo",
+    "formData": {
+      "image": "/media/2ac0dr0a1u9mjo0aykrn-1_eFjpoz8lhNKyd8XcSWv2OA.jpeg",
+      "title": "test1",
+      "typing": false
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-02-19T20:09:07.680Z"
   }
 ]
