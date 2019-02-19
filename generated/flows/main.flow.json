@@ -36,7 +36,8 @@
       "next": [],
       "onEnter": [
         "say #!builtin_text-AY5SSW",
-        "say #!builtin_text-X069Le"
+        "say #!builtin_text-X069Le",
+        "say #!builtin_image-1NhQrW"
       ],
       "onReceive": null
     },
