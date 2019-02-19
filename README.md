@@ -1,3 +1,9 @@
+A hacked up version of botpress X that
+1) works with Twilio env variables
+2) ignores some auth stuff in the Twilio module for ease of testing
+3) adds image capabilites to twilio
+4) doesn't respond to incoming texts with OK
+
 ## Run bot
 
 Run `npm start` to start your bot.
