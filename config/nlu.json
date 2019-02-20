@@ -2,6 +2,6 @@
   "intentsDir": "./generated/intents",
   "entitiesDir": "./generated/entities",
   "provider": "native",
-  "debugModeEnabled": false,
+  "debugModeEnabled": true,
   "minimumConfidence": "0.3"
 }

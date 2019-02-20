@@ -51,5 +51,59 @@
     },
     "createdBy": "admin",
     "createdOn": "2019-02-19T20:56:53.709Z"
+  },
+  {
+    "id": "builtin_text-zR_9xb",
+    "formData": {
+      "text": "Sorry none of that helped so far.",
+      "variations": [
+        "I'm proud of you for trying a few things.",
+        "Good job trying to fix it, you'll figure it out."
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-02-20T20:24:52.013Z"
+  },
+  {
+    "id": "builtin_text-yW9Yan",
+    "formData": {
+      "text": "Would you prefer some guided help, or do you just want me to listen?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-02-20T20:26:03.313Z"
+  },
+  {
+    "id": "builtin_text-fLZgAg",
+    "formData": {
+      "text": "Okay! I'm a-gonna help-a you",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-02-20T20:28:45.320Z"
+  },
+  {
+    "id": "builtin_text-yhYeWV",
+    "formData": {
+      "text": "Okay,  I'm happy to just listen. How are you feeling about this?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-02-20T20:29:34.666Z"
+  },
+  {
+    "id": "builtin_text-smKU36",
+    "formData": {
+      "text": "http://duckdebug.s3.amazonaws.com/images/nature-bird-river-wildlife-portrait-beak-1347910-pxhere.com.jpg",
+      "variations": [
+        "http://duckdebug.s3.amazonaws.com/images/duck1.jpg",
+        "http://duckdebug.s3.amazonaws.com/images/nature-bird-group-animal-cute-wildlife-1029580-pxhere.com.jpg",
+        "http://duckdebug.s3.amazonaws.com/images/nature-bird-river-wildlife-portrait-beak-1347910-pxhere.com.jpg"
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-02-20T21:14:00.561Z"
   }
 ]
